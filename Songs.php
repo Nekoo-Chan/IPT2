@@ -48,7 +48,7 @@ include 'dbcon.php';
 <div class="animations" id="Tables">
     
     <span>BARBIE</span>
-    <span>TOP</span>
+    <span>TOPs</span>
     <span>SONGS</span>
 </div>
 <br>
